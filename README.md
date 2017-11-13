@@ -1,7 +1,7 @@
 # DIeSEL
 DIeSEL (Distributed Self-Localization of a network of vehicles) algorithm, with a simple example.
 
-Author: Pusheng Ji
+Author: Pusheng Ji, ISR-IST (U Lisbon)
 
 Run main.m routine for an example. The algorithm is present at diesel.m. 
 The algorithm file is commented. Read the file carefully in order to determine the structure of the stacks.
